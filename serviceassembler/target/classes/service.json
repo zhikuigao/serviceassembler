@@ -1,0 +1,11 @@
+{
+	"zookeeper":"127.0.0.1:2181",
+	"serviceList":[
+		{
+			"serviceName":"serviceassembler",
+			"ip":"127.0.0.1",
+			"port":10040,
+			"path":"/"
+		}
+	]
+}	

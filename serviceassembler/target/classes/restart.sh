@@ -1,0 +1,1 @@
+/opt/truplatform/serviceassembler/stop.sh;/opt/truplatform/serviceassembler/start.sh

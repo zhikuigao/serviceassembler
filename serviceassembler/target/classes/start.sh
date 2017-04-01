@@ -1,0 +1,2 @@
+#start service assembler server
+cd /opt/truplatform/serviceassembler;nohup java -Djava.io.tmpdir=/opt/truplatform/serviceassembler/tmp -Djava.ext.dirs=lib -cp /opt/truplatform/serviceassembler com.jwis.serviceassembler.Application >/dev/null 2>&1 &
